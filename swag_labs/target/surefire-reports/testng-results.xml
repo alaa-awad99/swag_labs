@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="4" passed="4" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-10-16T21:35:49 AST" name="Surefire suite" finished-at="2024-10-16T21:37:35 AST" duration-ms="106004">
+    <groups>
+    </groups>
+    <test started-at="2024-10-16T21:35:49 AST" name="Surefire test" finished-at="2024-10-16T21:37:35 AST" duration-ms="106004">
+      <class name="com.project01.testcases.LoginTest">
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.project01.testcases.LoginTest@76b1e9b8]" started-at="2024-10-16T21:35:49 AST" name="setup" finished-at="2024-10-16T21:35:51 AST" duration-ms="2736" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="isLoginPageWorking()[pri:0, instance:com.project01.testcases.LoginTest@76b1e9b8]" started-at="2024-10-16T21:35:52 AST" name="isLoginPageWorking" finished-at="2024-10-16T21:36:36 AST" duration-ms="44135" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- isLoginPageWorking -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.project01.testcases.LoginTest@76b1e9b8]" started-at="2024-10-16T21:36:36 AST" name="tearDown" finished-at="2024-10-16T21:36:36 AST" duration-ms="390" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.project01.testcases.LoginTest@76b1e9b8]" started-at="2024-10-16T21:36:36 AST" name="setup" finished-at="2024-10-16T21:36:38 AST" duration-ms="1876" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="lockedMsg()[pri:0, instance:com.project01.testcases.LoginTest@76b1e9b8]" started-at="2024-10-16T21:36:38 AST" name="lockedMsg" finished-at="2024-10-16T21:36:45 AST" duration-ms="6547" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- lockedMsg -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.project01.testcases.LoginTest@76b1e9b8]" started-at="2024-10-16T21:36:45 AST" name="tearDown" finished-at="2024-10-16T21:36:45 AST" duration-ms="352" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.project01.testcases.LoginTest@76b1e9b8]" started-at="2024-10-16T21:36:45 AST" name="setup" finished-at="2024-10-16T21:36:47 AST" duration-ms="1818" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="shouldAddToCartBug()[pri:0, instance:com.project01.testcases.LoginTest@76b1e9b8]" started-at="2024-10-16T21:36:47 AST" name="shouldAddToCartBug" finished-at="2024-10-16T21:37:32 AST" duration-ms="45075" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- shouldAddToCartBug -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.project01.testcases.LoginTest@76b1e9b8]" started-at="2024-10-16T21:37:32 AST" name="tearDown" finished-at="2024-10-16T21:37:32 AST" duration-ms="352" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.project01.testcases.LoginTest -->
+      <class name="com.project01.testcases.PostalCheckTest">
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.project01.testcases.PostalCheckTest@27406a17]" started-at="2024-10-16T21:37:32 AST" name="setup" finished-at="2024-10-16T21:37:34 AST" duration-ms="1988" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="isPostalWorking()[pri:0, instance:com.project01.testcases.PostalCheckTest@27406a17]" started-at="2024-10-16T21:37:34 AST" name="isPostalWorking" finished-at="2024-10-16T21:37:34 AST" duration-ms="6" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- isPostalWorking -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.project01.testcases.PostalCheckTest@27406a17]" started-at="2024-10-16T21:37:34 AST" name="tearDown" finished-at="2024-10-16T21:37:35 AST" duration-ms="357" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.project01.testcases.PostalCheckTest -->
+    </test> <!-- Surefire test -->
+  </suite> <!-- Surefire suite -->
+</testng-results>
